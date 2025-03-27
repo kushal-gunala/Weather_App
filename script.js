@@ -1,4 +1,3 @@
-// const api_key="ac85da8c26a8562b4fca20bf5c7c7b52";
 const api_key="Enter Your API key";
 let unit="c";
 let tempC,tempF;
